@@ -1,2 +1,2 @@
 # programming01
-dankook univ. programming class
+dankook univ. programming class01
